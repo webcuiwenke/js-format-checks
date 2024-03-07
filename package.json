@@ -1,0 +1,20 @@
+{
+  "name": "js-format-checks",
+  "version": "1.0.0",
+  "description": "js三元表达式校验公式",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webcuiwenke/js-format-checks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webcuiwenke/js-format-checks/issues"
+  },
+  "homepage": "https://github.com/webcuiwenke/js-format-checks#readme"
+}
