@@ -61,3 +61,7 @@ export const identityNo = {
   pattern: /^\d{6}(18|19|20)\d{2}(0\d|10|11|12)([0-2]\d|30|31)\d{3}(\d|X|x)$/,
   message: "身份证号长度为18位数字或字母",
 };
+export const inputLength = {
+  pattern: /^.{5,20}$/,
+  message: "输入长度必须为5到20个字符",
+};
